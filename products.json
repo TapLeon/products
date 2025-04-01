@@ -1,0 +1,60 @@
+[
+    {
+        "id": "a69e8463-b540-4fd8-b87d-f7d41f6b005d",
+        "name": "Template Bier",
+        "logo": "generic-beer.jpg",
+        "alcohol": "5,0"
+    },
+    {
+        "id": "e8240b62-cc92-4a17-9def-1ddb01b1b4b0",
+        "name": "Template Sekt",
+        "logo": "generic-sekt.jpg",
+        "alcohol": "11,0"
+    },
+    {
+        "id": "9762946d-112d-498f-a93a-73db47c6b694",
+        "name": "Augustiner",
+        "logo": "augustiner.jpg",
+        "alcohol": "5,2"
+    },{
+        "id": "528d21a9-2063-4b1c-8ec6-607c8ffac40f",
+        "name": "Augustiner Helles",
+        "logo": "augustiner-helles.jpg",
+        "alcohol": "5,2"
+    },{
+        "id": "4329b5b0-0a46-408a-b71c-b1939547523a",
+        "name": "Augustiner Edelstoff",
+        "logo": "augustiner-edelstoff.jpg",
+        "alcohol": "5,6"
+    },{
+        "id": "70a4d53f-8883-4aa2-a24a-409db435b580",
+        "name": "Erdinger Weißbier",
+        "logo": "erdinger.jpg",
+        "alcohol": "5,3"
+    },{
+        "id": "0ea103ce-a470-458e-bb27-0dbabf5c4ee2",
+        "name": "Radeberger Pilsner",
+        "logo": "radeberger.jpg",
+        "alcohol": "4,8"
+    },{
+        "id": "ad4d7ded-694e-49f1-97a8-cb46812d92b9",
+        "name": "Bitburger",
+        "logo": "bitburger.jpg",
+        "alcohol": "4,8"
+    },{
+        "id": "f0d23c3d-9fe1-4416-9c27-ee933c69ea99",
+        "name": "Bitburger-Premium-Pils",
+        "logo": "bitburger.jpg",
+        "alcohol": "4,8"
+    },{
+        "id": "d92a5903-a1d9-4a84-91d4-5c9b9c69dbf3",
+        "name": "Krombacher-Pils",
+        "logo": "krombacher.jpg",
+        "alcohol": "4,8"
+    },{
+        "id": "40d19715-f6c2-4221-bbb5-115eb90dc0fd",
+        "name": "Düsen-Pils",
+        "logo": "duesen.jpg",
+        "alcohol": "4,9"
+    }
+]
