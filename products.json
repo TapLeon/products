@@ -56,5 +56,10 @@
         "name": "Düsen-Pils",
         "logo": "duesen.jpg",
         "alcohol": "4,9"
-    }
+    },{
+        "id": "c33b9073-fc01-48d9-a665-2ed624954dba",
+        "name": "Felsgold",
+        "logo": "felsgold.jpg",
+        "alcohol": "4.7"
+    },
 ]
