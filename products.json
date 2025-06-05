@@ -61,5 +61,10 @@
         "name": "Felsgold Pils",
         "logo": "felsgold.jpg",
         "alcohol": "4.7"
+    },{
+        "id": "b1f1e13c-d873-4d7f-8101-03908407b53d",
+        "name": "Explosion Beer",
+        "logo": "beer-explosion-logo.jpg",
+        "alcohol": "4,7"
     }
 ]
