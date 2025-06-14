@@ -66,5 +66,10 @@
         "name": "Explosion Beer",
         "logo": "beer-explosion-logo.jpg",
         "alcohol": "4,7"
+    },{
+        "id": "51a7d0ef-abbf-4773-8a61-c415d30346e6",
+        "name": "Helles",
+        "logo": "kurpfalzbraeu.jpg",
+        "alcohol": "5,2"
     }
 ]
