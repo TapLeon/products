@@ -1,5 +1,15 @@
 [
     {
+        "id": "1f408078-da62-4f48-bc06-1e1a9d3b85f0",
+        "name": "FIRST BASE | LAGER",
+        "logo": "volta_green.jpg",
+        "alcohol": "4,9"
+    },{
+        "id": "3cd06791-ef44-4b2c-9ecf-ab7aa9c5cc2e",
+        "name": "VOLTA / REN | HOPPY PILS",
+        "logo": "volta_white.jpg",
+        "alcohol": "5,0"
+    },{
         "id": "a69e8463-b540-4fd8-b87d-f7d41f6b005d",
         "name": "Template Bier",
         "logo": "generic-beer.jpg",
