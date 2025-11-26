@@ -5,6 +5,76 @@
         "logo": "volta_green.jpg",
         "alcohol": "4,9"
     },{
+        "id": "d2a3e349-0869-495e-84ee-d1eebd1b96ff",
+        "name": "Lemke Helles",
+        "logo": "lemke-helles-logo.jpg",
+        "alcohol": "4,9"
+    },{
+        "id": "40332967-d8c3-4e81-b271-6d9f6961fb7f",
+        "name": "Peng Cassis",
+        "logo": "peng.png",
+        "alcohol": "0,0"
+    },{
+        "id": "7b39cb18-9434-4a46-adc8-842c054983cb",
+        "name": "Mojito",
+        "logo": "punch_club.png",
+        "alcohol": "8,9"
+    },{
+        "id": "7b39cb18-9434-4a46-adc8-842c054983cb",
+        "name": "Sex on the Beach",
+        "logo": "punch_club.png",
+        "alcohol": "8,9"
+    },{
+        "id": "7b39cb18-9434-4a46-adc8-842c054983cb",
+        "name": "Gin Tonic",
+        "logo": "punch_club.png",
+        "alcohol": "8,9"
+    },{
+        "id": "7b39cb18-9434-4a46-adc8-842c054983cb",
+        "name": "Espresso Martini",
+        "logo": "punch_club.png",
+        "alcohol": "8,9"
+    },{
+        "id": "7b39cb18-9434-4a46-adc8-842c054983cb",
+        "name": "Cuba Libre",
+        "logo": "punch_club.png",
+        "alcohol": "8,9"
+    },{
+        "id": "7b39cb18-9434-4a46-adc8-842c054983cb",
+        "name": "Gin Sour",
+        "logo": "punch_club.png",
+        "alcohol": "8,9"
+    },{
+        "id": "7b39cb18-9434-4a46-adc8-842c054983cb",
+        "name": "Negroni",
+        "logo": "punch_club.png",
+        "alcohol": "8,9"
+    },{
+        "id": "7b39cb18-9434-4a46-adc8-842c054983cb",
+        "name": "Whiskey Sour",
+        "logo": "punch_club.png",
+        "alcohol": "8,9"
+    },{
+        "id": "7b39cb18-9434-4a46-adc8-842c054983cb",
+        "name": "Grapefruit Collins",
+        "logo": "punch_club.png",
+        "alcohol": "8,9"
+    },{
+        "id": "7b39cb18-9434-4a46-adc8-842c054983cb",
+        "name": "Hugo",
+        "logo": "punch_club.png",
+        "alcohol": "8,9"
+    },{
+        "id": "7b39cb18-9434-4a46-adc8-842c054983cb",
+        "name": "Moscow Mule",
+        "logo": "punch_club.png",
+        "alcohol": "8,9"
+    },{
+        "id": "7b39cb18-9434-4a46-adc8-842c054983cb",
+        "name": "Passionfruit & Mango",
+        "logo": "punch_club.png",
+        "alcohol": "8,9"
+    },{
         "id": "3cd06791-ef44-4b2c-9ecf-ab7aa9c5cc2e",
         "name": "VOLTA / REN | HOPPY PILS",
         "logo": "volta_white.jpg",
