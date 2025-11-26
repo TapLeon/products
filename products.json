@@ -1,10 +1,5 @@
 [
     {
-        "id": "1f408078-da62-4f48-bc06-1e1a9d3b85f0",
-        "name": "FIRST BASE | LAGER",
-        "logo": "volta_green.jpg",
-        "alcohol": "4,9"
-    },{
         "id": "d2a3e349-0869-495e-84ee-d1eebd1b96ff",
         "name": "Lemke Helles",
         "logo": "lemke-helles-logo.jpg",
@@ -12,7 +7,7 @@
     },{
         "id": "40332967-d8c3-4e81-b271-6d9f6961fb7f",
         "name": "Peng Cassis",
-        "logo": "peng.png",
+        "logo": "peng-cassis-logo.jpg",
         "alcohol": "0,0"
     },{
         "id": "7b39cb18-9434-4a46-adc8-842c054983cb",
@@ -74,6 +69,11 @@
         "name": "Passionfruit & Mango",
         "logo": "punch_club.png",
         "alcohol": "8,9"
+    },{
+        "id": "1f408078-da62-4f48-bc06-1e1a9d3b85f0",
+        "name": "FIRST BASE | LAGER",
+        "logo": "volta_green.jpg",
+        "alcohol": "4,9"
     },{
         "id": "3cd06791-ef44-4b2c-9ecf-ab7aa9c5cc2e",
         "name": "VOLTA / REN | HOPPY PILS",
