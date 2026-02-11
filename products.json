@@ -1,5 +1,30 @@
 [
     {
+        "id": "f4499e6e-30db-40d2-a26f-ea9cabd205d1",
+        "name": "Dark Lager",
+        "logo": "volta_dark_lager.jpg",
+        "alcohol": "4,9"
+    },{
+        "id": "f4499e6e-30db-40d2-a26f-ea9cabd205d1",
+        "name": "First Lager",
+        "logo": "volta_first_lager.jpg",
+        "alcohol": "4,9"
+    },{
+        "id": "f4499e6e-30db-40d2-a26f-ea9cabd205d1",
+        "name": "IPA",
+        "logo": "volta_ipa.jpg",
+        "alcohol": "6,0"
+    },{
+        "id": "f4499e6e-30db-40d2-a26f-ea9cabd205d1",
+        "name": "Pale Ale",
+        "logo": "volta_pale_ale.jpg",
+        "alcohol": "5,0"
+    },{
+        "id": "f4499e6e-30db-40d2-a26f-ea9cabd205d1",
+        "name": "Weizen",
+        "logo": "volta_weizen.jpg",
+        "alcohol": "4,9"
+    },{
         "id": "1f408078-da62-4f48-bc06-1e1a9d3b85f0",
         "name": "LAGER",
         "logo": "volta_green.jpg",
