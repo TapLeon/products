@@ -35,6 +35,11 @@
         "logo": "volta_white.jpg",
         "alcohol": "5,0"
     },{
+        "id": "ffa45b65-720b-4833-8873-a8fb97721d6f",
+        "name": "Eistee",
+        "logo": "ice-tea.png",
+        "alcohol": "0,0"
+    },{
         "id": "d2a3e349-0869-495e-84ee-d1eebd1b96ff",
         "name": "Lemke Helles",
         "logo": "lemke-helles-logo.jpg",
